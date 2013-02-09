@@ -1,14 +1,13 @@
-Title:
-    _**I DON'T EVEN KNOW YET**_
-Credit: Written By
-Author: Nolan Brubaker
-Draft date: 2/8/2013
+            Title: _**I DON'T EVEN KNOW YET**_
+            Credit: Written By
+            Author: Nolan Brubaker
+            Draft date: 2/8/2013
 
 ===
 
 Those who mind don't matter and those who matter don't mind. - Bernard M. Baruch
 
-INT. DINING ROOM - DAY
+DINING ROOM - DAY
 
 Two friends are sitting around a table arguing. A third is sitting in a chair nearby
 
@@ -17,7 +16,7 @@ Two friends are sitting around a table arguing. A third is sitting in a chair ne
 
             KELLY
         (hands in the air)
-    Oh come on - interesting, really? How interesting could some rednecks trying to pawn their old shit?
+    Oh come on - interesting, really? How interesting could some rednecks trying to pawn their old crap be? Or guys making duck calls for a living?
 
             JAMIE
     What about telling the stories of those down-on-your luck families, getting their
@@ -36,19 +35,24 @@ home renovated or fixed after a dishonest contractor took all their money and le
     So they're entertainment, is that so bad? It's no better or worse than sports!
 
             KELLY
-    Don't get me started on sports! So take Survivor. People competing to survive in a place people already live! And it's not like they're in danger of dying in any case.
+    Don't get me started on sports!
+
+Kelly pauses to think.
+
+            KELLY (CONT'D)
+    Anyway, take Survivor. People competing to survive in a place people already live! And it's not like they're in danger of dying in any case.
 
                 CUT TO:
 
-INT. INTERVIEW CHAIR
+INTERVIEW CHAIR
 
             KELLY
-        (obviously angry)
-    It's ridiculous, how much stock (s)he puts in to that crap! It's not like any of these are life or death things, and half the time any 'drama' is created by crappy close ups of super concerned people.
+        (amused)
+    It's ridiculous, how much stock (s)he puts in to that crap! It's not like any of these are great drama, like a Shakespeare. Half the time any tension is created by crappy close ups of super concerned people before a commerical break.
 
                 CUT TO:
 
-INT. INTERVIEW CHAIR
+INTERVIEW CHAIR
 
             JAMIE
     I don't get why Kelly gets so upset about this stuff.
@@ -56,22 +60,22 @@ INT. INTERVIEW CHAIR
 
                 CUT TO:
 
-INT. DINING ROOM
+DINING ROOM
 
             JAMIE
-    Yeah, they wouldn't die, but it does put normal people in a challenging position that most of the industrialized world doesn't have to put up with.
+    Yeah, they wouldn't die, but it does put normal people in a challenging position that most of the industrialized world doesn't have to experience.
 
             KELLY
-    Those aren't real people - they're acting! They know they're being filmed, they've seen the show. People auditioning for that know what the producers are looking for.
+    Those aren't real people - they're acting! They know they're being filmed, they've seen the show. People auditioning for that know what the producers want, and do their best to fit a role. The liar, the nice guy, the bad girl.
 
                 CUT TO:
 
-INT. LiVING ROOM
+LiVING ROOM
 
 Mark is sitting in a chair nearby, reading. He can hear the conversation but doesn't appear to be paying attention.
 
             JAMIE
-    Look, I'm not saying they're not really contrived, but they still give exposure to people with talents.
+    Look, I'm not saying they're not totally real, but some still give exposure to people with talents.
     Take American Idol or So You Think You Can Dance. They give people a chance to show of their skills in front of a wide audience.
 
             KELLY
@@ -98,13 +102,13 @@ Jamie counts on fingers.
 
                 CUT TO:
 
-INT. LIVING ROOM
+LIVING ROOM
 
 Mark glances over his book, shakes his head, and goes back to reading.
 
                 CUT TO:
 
-INT. KITCHEN
+DINING ROOM
 
             KELLY
     Ok, ok - yeah, I guess. What about the text voting crap?
@@ -136,7 +140,7 @@ Mark and Kelly both laugh.
     They did it on Real Housewives of..
 
             KELLY
-        (cutting JAMIE off)
+        (cutting Jamie off)
     See, see!
 
             JAMIE
@@ -147,13 +151,13 @@ Mark and Kelly both laugh.
     Look, ok, if that makes you and Princess happy, fine. Whatever.
     But do you really think that those people are good to emulate?
 
-    Jamie stands up and paces, arms crossed.
+Jamie stands up and paces, arms crossed.
 
             JAMIE
     Now you're making it personal!
 
             KELLY
-    Sorry, you just presented a good example. You're emulating this manufactured image. Those people on TV giving their dog nose jobs -
+    Sorry, you just gave me a really good example. You're emulating this manufactured image. Those people on TV giving their dog nose jobs -
 
             JAMIE
     Snout!
@@ -192,7 +196,7 @@ Kelly pauses to think.
 
                 CUT TO:
 
-INT. KITCHEN TABLE
+KITCHEN TABLE
 
 Both Kelly and Jamie are sitting down again. Mark is still reading.
 
@@ -232,7 +236,7 @@ Mark walks out the door and closes it. Kelly and Jamie look at each other, confu
 
                 FADE IN:
 
-INT. INTERVIEW CHAIR
+INTERVIEW CHAIR
 
 Mark walks in and sits in the interview chair.
 He pauses for a second before talking.
